@@ -1,1 +1,4 @@
-*.log
+application.log
+config.log
+# or use this (*.log) for shortcut 
+database/
